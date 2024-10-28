@@ -6,6 +6,10 @@ This is a small utility that prevents your Windows PC from going idle, turning o
 
 ## New Features
 
+### Support AutoHotkey v2
+
+Now the script does support the newest and safest version of AutoHotkey.
+
 ### Mouse Move Settings
 
 We've introduced a new configuration option for the **Move mouse** feature, allowing you to customize how the mouse movement prevents the system from going idle. You can now adjust the following settings:
